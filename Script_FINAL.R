@@ -28,6 +28,7 @@ library(hydroPSO)
 library(rstanarm)
 library(ggmcmc)
 library(xlsx)
+library(bayestestR)
 
 memory.limit(size=400000)
 
